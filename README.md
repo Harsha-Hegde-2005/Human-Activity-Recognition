@@ -49,6 +49,7 @@ python src/train.py
 
 The script will train the LSTM model twice (once with Adam, once with SGD), print the final test accuracies, and save the results in a plot named `optimizer_comparison.png`.
 
+
 ## Results and Analysis
 
 The experiment was designed to compare the Adam and SGD optimizers over 5 epochs using a stable learning rate and a fixed random seed for reproducibility. The final results were conclusive:

@@ -9,7 +9,6 @@ This repository contains the source code for the UE23CS352A Machine Learning min
 * **Name:** Harsha Madev Hegde
 * **SRN:** PES2UG23CS212
 
-*(Note: Add your teammate's details here if applicable)*
 * **Name:** Gudihalli Kiran
 * **SRN:** PES2UG23CS207
 
@@ -21,8 +20,8 @@ This repository contains the source code for the UE23CS352A Machine Learning min
 
 **Clone the Repository**
 ```bash
-git clone <your-repository-url>
-cd <repository-name>
+git clone https://github.com/Harsha-Hegde-2005/Human-Activity-Recognition
+cd Human-Activity-Recognition
 ```
 
 **Create a Virtual Environment**
